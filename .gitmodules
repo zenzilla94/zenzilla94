@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-flat"]
 	path = themes/hugo-theme-flat
 	url = git@github.com:zenzilla94/hugo-theme-flat.git
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack/
